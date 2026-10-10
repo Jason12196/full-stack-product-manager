@@ -1,0 +1,6 @@
+interface:
+  display_name: "全栈产品经理"
+  short_description: "竞品驱动的 vibe coding：定义功能、设计交互与技术方案，确认后实现并验收"
+  default_prompt: "使用 $full-stack-product-manager 帮我调研对应竞品功能，先给方案和彩色流程图，等我确认后再实现。"
+policy:
+  allow_implicit_invocation: true
